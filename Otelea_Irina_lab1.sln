@@ -1,0 +1,42 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otelea_Irina_lab1.AppHost", "Otelea_Irina_lab1.AppHost\Otelea_Irina_lab1.AppHost.csproj", "{FD993A55-BD31-4245-8909-85D3BFAEEBB2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Otelea_Irina_lab1.ServiceDefaults", "Otelea_Irina_lab1.ServiceDefaults\Otelea_Irina_lab1.ServiceDefaults.csproj", "{3AED6DEE-8E92-42C2-98F7-5D411F2F46C7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Otelea_Irina_lab1.ApiService", "Otelea_Irina_lab1.ApiService\Otelea_Irina_lab1.ApiService.csproj", "{6ADD4FAC-E753-45E6-9A7C-4086F27C285E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Otelea_Irina_lab1.Web", "Otelea_Irina_lab1.Web\Otelea_Irina_lab1.Web.csproj", "{0EC84A99-9D0F-4F8E-AC47-76F0EECA9908}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD993A55-BD31-4245-8909-85D3BFAEEBB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD993A55-BD31-4245-8909-85D3BFAEEBB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD993A55-BD31-4245-8909-85D3BFAEEBB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD993A55-BD31-4245-8909-85D3BFAEEBB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AED6DEE-8E92-42C2-98F7-5D411F2F46C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AED6DEE-8E92-42C2-98F7-5D411F2F46C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AED6DEE-8E92-42C2-98F7-5D411F2F46C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AED6DEE-8E92-42C2-98F7-5D411F2F46C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ADD4FAC-E753-45E6-9A7C-4086F27C285E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ADD4FAC-E753-45E6-9A7C-4086F27C285E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ADD4FAC-E753-45E6-9A7C-4086F27C285E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ADD4FAC-E753-45E6-9A7C-4086F27C285E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EC84A99-9D0F-4F8E-AC47-76F0EECA9908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EC84A99-9D0F-4F8E-AC47-76F0EECA9908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EC84A99-9D0F-4F8E-AC47-76F0EECA9908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EC84A99-9D0F-4F8E-AC47-76F0EECA9908}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39087F36-EFE4-4B1C-910E-EC2BA4123725}
+	EndGlobalSection
+EndGlobal
